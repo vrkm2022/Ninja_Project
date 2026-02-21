@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-20T22:17:36 IST" name="Surefire suite" finished-at="2026-02-20T22:17:44 IST" duration-ms="7980">
+    <groups>
+      <group name="smoke">
+        <method signature="Search.sr_InvalidProduct()[pri:2, instance:testCases.Search@184cf7cf]" name="sr_InvalidProduct" class="testCases.Search"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-02-20T22:17:36 IST" name="Surefire test" finished-at="2026-02-20T22:17:44 IST" duration-ms="7980">
+      <class name="testCases.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:36 IST" name="setup" finished-at="2026-02-20T22:17:39 IST" duration-ms="2531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sr_ValidProduct()[pri:1, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:39 IST" name="sr_ValidProduct" finished-at="2026-02-20T22:17:40 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sr_ValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:40 IST" name="tearDown" finished-at="2026-02-20T22:17:40 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:40 IST" name="setup" finished-at="2026-02-20T22:17:42 IST" duration-ms="1920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sr_InvalidProduct()[pri:2, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:42 IST" name="sr_InvalidProduct" finished-at="2026-02-20T22:17:42 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sr_InvalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:42 IST" name="tearDown" finished-at="2026-02-20T22:17:42 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:42 IST" name="setup" finished-at="2026-02-20T22:17:44 IST" duration-ms="1962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sr_NOProduct()[pri:3, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:44 IST" name="sr_NOProduct" finished-at="2026-02-20T22:17:44 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sr_NOProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Search@184cf7cf]" started-at="2026-02-20T22:17:44 IST" name="tearDown" finished-at="2026-02-20T22:17:44 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Search -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
